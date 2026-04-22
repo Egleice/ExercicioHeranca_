@@ -1,4 +1,4 @@
-class ContaEmpresarial extends Conta {
+public class ContaEmpresarial extends Conta {
     private double limite;
 
     public ContaEmpresarial(PessoaJuridica cliente, double saldo, double limite) {
