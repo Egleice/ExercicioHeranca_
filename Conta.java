@@ -1,4 +1,4 @@
-abstract class Conta {
+public abstract class Conta {
     protected double saldo;
     protected Cliente cliente;
 
