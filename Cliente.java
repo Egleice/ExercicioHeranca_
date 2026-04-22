@@ -1,3 +1,3 @@
-abstract class Cliente {
+public abstract class Cliente {
     protected String nome;
 }
