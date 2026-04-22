@@ -1,4 +1,4 @@
-class ContaPoupanca extends Conta {
+public class ContaPoupanca extends Conta {
 
     public ContaPoupanca(PessoaFisica cliente, double saldo) {
         super(cliente, saldo);
