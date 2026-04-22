@@ -1,4 +1,4 @@
-class ContaEspecial extends Conta {
+public class ContaEspecial extends Conta {
     protected double limite;
 
     public ContaEspecial(PessoaFisica cliente, double saldo, double limite) {
